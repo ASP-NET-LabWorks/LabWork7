@@ -54,6 +54,9 @@
                             <li class="nav-item">
                                 <a class="nav-link" runat="server" href="~/Stylesheet">CSS</a>
                             </li>
+                            <li class="nav-item">
+                                <a class="nav-link" runat="server" href="~/Skin">Skin</a>
+                            </li>
                         </ul>
                     </div>
                 </div>
@@ -67,7 +70,7 @@
             </div>
         </main>
 
-        <footer class="bg-dark py-3">
+        <footer class="fixed-bottom bg-dark py-3">
             <div class="container">
                 <p class="text-center my-0 text-white">&copy; <%: DateTime.Now.Year %> azvm</p>
             </div>
