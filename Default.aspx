@@ -2,7 +2,7 @@
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
 <div class="jumbotron">
-    <h1>Master Page</h1>
+    <h1>Мастер-страница</h1>
     <p>Lorem ipsum dolor sit amet</p>
 </div>
 </asp:Content>

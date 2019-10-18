@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Skin.aspx.cs" Inherits="LabWork7.Skin" EnableTheming="true" Theme="TestSkin" %>
+﻿<%@ Page Title="Skin" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Skin.aspx.cs" Inherits="LabWork7.Skin" EnableTheming="true" Theme="TestSkin" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
 <div class="jumbotron">
